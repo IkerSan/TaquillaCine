@@ -1,5 +1,7 @@
 package cuatrovientos.dam.psp.sincronizacion.taquillas;
 
-public class Cine {
+import java.util.concurrent.Semaphore;
 
+public class Cine {
+    
 }

@@ -48,3 +48,33 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-12-17 17:29:15.315
 !MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.552
+!MESSAGE [Info] Document is null for editor: Cliente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.554
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/cosas/Documents/DAM2/PSP/TaquillaCine/taquillas/src/main/java/cuatrovientos/dam/psp/sincronizacion/taquillas/Cliente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.565
+!MESSAGE [Info] Document is null for editor: Cine.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.566
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/cosas/Documents/DAM2/PSP/TaquillaCine/taquillas/src/main/java/cuatrovientos/dam/psp/sincronizacion/taquillas/Cine.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.577
+!MESSAGE [Info] Document is null for editor: Taquilla.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.577
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/cosas/Documents/DAM2/PSP/TaquillaCine/taquillas/src/main/java/cuatrovientos/dam/psp/sincronizacion/taquillas/Taquilla.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.588
+!MESSAGE [Info] Document is null for editor: Cola.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.589
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/cosas/Documents/DAM2/PSP/TaquillaCine/taquillas/src/main/java/cuatrovientos/dam/psp/sincronizacion/taquillas/Cola.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.612
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-12-17 18:01:20.613
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/cosas/Documents/DAM2/PSP/TaquillaCine/taquillas/src/main/java/cuatrovientos/dam/psp/sincronizacion/taquillas/Main.java

@@ -1,5 +1,7 @@
 package cuatrovientos.dam.psp.sincronizacion.taquillas;
 
-public class Taquilla {
+import java.util.List;
 
+public class Taquilla extends Thread {
+    
 }

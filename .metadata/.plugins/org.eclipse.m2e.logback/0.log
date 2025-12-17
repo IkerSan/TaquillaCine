@@ -71,3 +71,13 @@
 2025-12-17 17:33:02,504 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
 2025-12-17 17:33:12,924 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
 2025-12-17 17:33:12,927 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
+2025-12-17 17:42:08,462 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
+2025-12-17 17:42:08,466 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
+2025-12-17 17:42:40,098 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
+2025-12-17 17:42:40,102 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
+2025-12-17 17:42:47,133 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
+2025-12-17 17:42:47,137 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
+2025-12-17 17:42:54,210 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
+2025-12-17 17:42:54,213 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
+2025-12-17 17:43:01,066 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\main\resources
+2025-12-17 17:43:01,070 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\taquillas\src\test\resources
