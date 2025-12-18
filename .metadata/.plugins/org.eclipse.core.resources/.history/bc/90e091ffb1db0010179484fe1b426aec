@@ -1,6 +1,5 @@
 package cuatrovientos.dam.psp.sincronizacion.taquillas;
 
-import java.util.ArrayList;
 import java.util.concurrent.Semaphore;
 
 public class Cola {
@@ -36,7 +35,7 @@ public class Cola {
         try {
             semaforo.acquire(); // Bloqueamos el acceso
             if (!cola.isEmpty()) {
-                Cliente c = cola.remove(0); // remove(0) obtiene y elimina el primer elemento
+                Cliente c = cola.poll(); // poll() es similar a remove(), pero no lanza una excepción si la lista está vacía
                 semaforo.release(); // Liberamos el acceso
                 return c;
             } else {

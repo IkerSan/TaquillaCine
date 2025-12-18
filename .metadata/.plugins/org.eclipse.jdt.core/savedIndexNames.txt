@@ -1,5 +1,4 @@
 INDEX VERSION 1.134+C:\Users\cosas\Documents\DAM2\PSP\TaquillaCine\.metadata\.plugins\org.eclipse.jdt.core
-4054412802.index
 4141114373.index
 1865797976.index
 1983764366.index

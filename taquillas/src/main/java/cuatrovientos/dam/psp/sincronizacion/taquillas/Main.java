@@ -34,10 +34,12 @@ public class Main {
         // Bucle para generar clientes
         int idCliente = 1;
         for (int min = 0; min < MINUTOS_VENTA; min++) {
-            // Entre 10 y 15 clientes por "minuto"
+            // Entre 10 y 15 clientes por minuto
             int numClientes = (int) (Math.random() * 6 + 10); 
-            System.out.println("Generando " + numClientes + " clientes en minuto " + (min + 1));
+            int tiempoEntreClientes = 6000 / numClientes; 
 
+            System.out.println("Generando " + numClientes + " clientes en minuto " + (min + 1));
+            
             // Generamos clientes
             for (int k = 0; k < numClientes; k++) {
                 Cliente c = new Cliente(idCliente++);
@@ -58,10 +60,8 @@ public class Main {
                 }
 
                 // Pequeña pausa entre clientes
-                Thread.sleep(100); 
+                Thread.sleep(tiempoEntreClientes); 
             }
-            // Pausa entre minutos
-            Thread.sleep(1000);
         }
 
         System.out.println("Generación terminada. Esperando vaciar colas...");

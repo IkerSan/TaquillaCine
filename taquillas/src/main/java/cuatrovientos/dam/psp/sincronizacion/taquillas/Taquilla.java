@@ -34,7 +34,7 @@ public class Taquilla extends Thread {
                 
                 // Simular tiempo de venta 
                 try {
-                    Thread.sleep((long) (Math.random() * 11 + 20)); 
+                    Thread.sleep((long) (Math.random() * 1001 + 2000)); 
                 } catch (InterruptedException e) {
                     Thread.currentThread().interrupt();
                 }
